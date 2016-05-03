@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="area.js"></script>
+<script type="text/javascript" src="location.js"></script>
+<link href="common.css" rel="stylesheet"/>
+<title>全国省市区三级联动下拉菜单</title>
+</head>
+
+<body>
+<div id="header">
+<h1>全国省市区三级联动下拉菜单</h1>
+</div>
+
+<div class="main">
+<h2>Author</h2>
+RayChou
+[<a href="http://www.raychou.com">Website</a>]
+
+<h2>Update</h2>
+<ul>
+  <li><strong>2008-01-21</strong><br />
+    发布第一版</li>
+</ul>
+
+<h2>Download</h2>
+
+<h2>Demo</h2>
+
+<div class="main">
+<select id="loc_province" style="width:80px;"></select>
+<select id="loc_city" style="width:100px;"></select>
+<select id="loc_town" style="width:120px;"></select>
+<input type="hidden" name="location_id" />
+
+</div>
+
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	showLocation();
+});
+</script>
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/465832.js"></script>
+</body>
+</html>

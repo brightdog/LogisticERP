@@ -1,0 +1,8 @@
+frmMain = 22, 22, 694, 259, , 44, 44, 712, 255, C
+modDosPrint = 0, 0, 0, 0, C
+modMain = 110, 110, 863, 621, 
+modWriteLog = 22, 22, 912, 233, 
+modSleep = 0, 0, 1037, 381, 
+clsEncrypt = 0, 0, 0, 0, C
+clsDelHisFiles = 0, 0, 0, 0, C
+modProc = 176, 176, 991, 557, Z

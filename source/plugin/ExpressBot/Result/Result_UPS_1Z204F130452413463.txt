@@ -1,0 +1,25 @@
+Xian,China	2015/04/13	18:00已递送
+ZhengZhou,China	2015/04/10	22:00启程扫描
+	2015/04/10	19:02进口扫描
+	2015/04/10	11:50您的包裹因关税和税款支付被扣留。
+ZhengZhou,China	2015/04/07	17:08货栈扫描
+ZhengZhou,China	2015/04/03	16:54货栈扫描
+ZhengZhou,China	2015/04/02	17:00货栈扫描
+ZhengZhou,China	2015/04/01	17:08货栈扫描
+ZhengZhou,China	2015/03/31	18:56货栈扫描
+	2015/03/30	17:35您的包裹正等待清关机构放货，以在进口地点进行正式进口报关。
+ZhengZhou,China	2015/03/30	15:10抵达扫描
+Incheon,Korea, Republic of	2015/03/30	13:55启程扫描
+Incheon,Korea, Republic of	2015/03/28	11:22抵达扫描
+Anchorage, AK,United States	2015/03/27	10:08启程扫描
+	2015/03/27	8:13出口扫描
+	2015/03/27	7:32目的地扫描
+	2015/03/27	7:16抵达扫描
+Louisville, KY,United States	2015/03/27	4:47启程扫描
+	2015/03/27	1:16抵达扫描
+Newark, NJ,United States	2015/03/26	23:12启程扫描
+	2015/03/26	22:10抵达扫描
+New York, NY,United States	2015/03/26	21:35启程扫描
+	2015/03/26	20:19起运地扫描
+United States	2015/03/26	19:02订单已处理： 为 UPS 准备就绪
+

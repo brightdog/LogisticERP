@@ -1,0 +1,16 @@
+[History]
+B0=ExpressBot/modMain/convertResult
+B1=ExpressBot/modMain/ReadJSContent
+B2=ExpressBot/clsUPS/GetInfo
+B3=ExpressBot/clsUPS/GetResultFrom100
+B4=ExpressBot/modGetRandomNum/GetRandomNum
+B5=ExpressBot/clsWinHTTPGetHtml/Send
+B6=ExpressBot/clsXMLHTTPGetHtml/Send
+B7=ExpressBot/frmMain/cmdStart_Click
+B8=ExpressBot/clsUPS/CheckResult
+B9=ExpressBot/modMain/WriteLog
+B10=ExpressBot/JSON/parseNumber
+B11=ExpressBot/clsWinHTTPGetHtml/ReturnData
+B12=ExpressBot/modMain/GetRndNum
+B13=ExpressBot/clsZTO/GetInfo
+B14=ExpressBot/modPostData_Core/PostData

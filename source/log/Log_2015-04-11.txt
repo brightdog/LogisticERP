@@ -1,0 +1,28 @@
+tcMain.InsertItem 0, "订单系统"<-- 2015-04-11 14:08:57
+frmOrder.doSearch(0)<-- 2015-04-11 14:08:57
+tcMain.InsertItem 0, "订单系统"<-- 2015-04-11 14:32:44
+frmOrder.doSearch(0)<-- 2015-04-11 14:32:44
+http://114.215.177.126:9527/inc/frmorder_detail.asp@@{"Type":"SaveOrderDetail_Batch","Fields":["ThdPkgNO","ThdOrderOutWorkNO","ReceiverAddress","ReceiverName","ReceiverMobile","PkgNum","PkgWeight","InsurePrice","Remark","ReceiveDateTime","ThirdPartExpressNOList"],"Values":["21959","80072458","杭州市杭州拱墅区湖墅南路139号","一票多件","13606628236","3","25.700","27720","","2015-03-13","ZTO_728527363022|ZTO_728527363023|ZTO_728527363024","|","21958","80072457","杭州市杭州拱墅湖墅南路139号","一单多行多件","13958042718","2","20.300","21582","","2015-03-13","ZTO_728527363020","|","21958","80072457","杭州市杭州拱墅湖墅南路139号","一单多行多件","13958042718","2","20.300","21582","","2015-03-13","ZTO_728527363021"],"CreateEmp":"admin"}::Status: 500
+ <font face="??" size=2>
+<p>Server ???ont> <font face="??" size=2>?? 'ASP 0177 : 800401f3'</font>
+<p>
+<font face="??" size=2>Server.CreateObject ???/font>
+<p>
+<font face="??" size=2>/inc/common.asp</font><font face="??" size=2>??? 238</font>
+<p>
+<font face="??" size=2>800401f3
+</font> <-- 2015-04-11 14:32:48
+http://114.215.177.126:9527/inc/frmorder_detail.asp@@{"Type":"SaveOrderDetail_Batch","Fields":["ThdPkgNO","ThdOrderOutWorkNO","ReceiverAddress","ReceiverName","ReceiverMobile","PkgNum","PkgWeight","InsurePrice","Remark","ReceiveDateTime","ThirdPartExpressNOList"],"Values":["21959","80072458","杭州市杭州拱墅区湖墅南路139号","一票多件","13606628236","3","25.700","27720","","2015-03-13","ZTO_728527363022|ZTO_728527363023|ZTO_728527363024","|","21958","80072457","杭州市杭州拱墅湖墅南路139号","一单多行多件","13958042718","2","20.300","21582","","2015-03-13","ZTO_728527363020","|","21958","80072457","杭州市杭州拱墅湖墅南路139号","一单多行多件","13958042718","2","20.300","21582","","2015-03-13","ZTO_728527363021"],"CreateEmp":"admin"}::Status: 500
+ <font face="??" size=2>
+<p>Microsoft VBScript runtime </font> <font face="??" size=2>?? '800a01b6'</font>
+<p>
+<font face="??" size=2>Object doesn't support this property or method: 'dicResult.NotExists'</font>
+<p>
+<font face="??" size=2>/inc/common.asp</font><font face="??" size=2>??? 249</font> <-- 2015-04-11 14:34:05
+http://114.215.177.126:9527/inc/frmorder_detail.asp@@{"Type":"SaveOrderDetail_Batch","Fields":["ThdPkgNO","ThdOrderOutWorkNO","ReceiverAddress","ReceiverName","ReceiverMobile","PkgNum","PkgWeight","InsurePrice","Remark","ReceiveDateTime","ThirdPartExpressNOList"],"Values":["21959","80072458","杭州市杭州拱墅区湖墅南路139号","一票多件","13606628236","3","25.700","27720","","2015-03-13","ZTO_728527363022|ZTO_728527363023|ZTO_728527363024","|","21958","80072457","杭州市杭州拱墅湖墅南路139号","一单多行多件","13958042718","2","20.300","21582","","2015-03-13","ZTO_728527363020","|","21958","80072457","杭州市杭州拱墅湖墅南路139号","一单多行多件","13958042718","2","20.300","21582","","2015-03-13","ZTO_728527363021"],"CreateEmp":"admin"}::Status: 500
+ <font face="??" size=2>
+<p>Microsoft VBScript runtime </font> <font face="??" size=2>?? '800a01b6'</font>
+<p>
+<font face="??" size=2>Object doesn't support this property or method: 'dicResult.NotExists'</font>
+<p>
+<font face="??" size=2>/inc/common.asp</font><font face="??" size=2>??? 249</font> <-- 2015-04-11 14:34:30

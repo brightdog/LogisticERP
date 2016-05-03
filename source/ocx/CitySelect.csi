@@ -1,0 +1,16 @@
+[History]
+B0=CitySelect/UC/txtProvince_GotFocus
+B1=CitySelect/UC/lstIncremental_Click
+B2=CitySelect/UC/txtCity_GotFocus
+B3=CitySelect/UC/txtCity_KeyDown
+B4=CitySelect/UC/txtProvince_KeyDown
+B5=CitySelect/UC/txtDistrict_GotFocus
+B6=CitySelect/UC/txtAddress_GotFocus
+B7=CitySelect/UC/Timer1_Timer
+B8=CitySelect/UC/QuichSearchbyLocaldic
+B9=CitySelect/UC/UserControl_Initialize
+B10=CitySelect/UC/lstIncremental_KeyDown
+B11=CitySelect/UC
+B12=CitySelect/UC/SetValueByJson
+B13=CitySelect/UC/txtCustDistrict_Change
+B14=CitySelect/UC/txtCustCity_Change

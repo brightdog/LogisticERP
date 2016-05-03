@@ -1,0 +1,82 @@
+tcMain.InsertItem 0, "订单系统"<-- 2015-04-22 07:40:18
+frmOrder.doSearch(0)<-- 2015-04-22 07:40:18
+http://114.215.177.126:9527/inc/frmorder_export.asp.asp@@{"Type":"PagedList","Fields":["ThirdPartExpressNUM","Skip","CreateDT","CreateDT"],"Opers":["","=","<=",">="],"Values":["0","","'2015-04-23'","'2015-03-23'"], "AddtionalQueryString":"", "PageSize":"5000", "PageNum":"1","CreateEmp":"admin"}::Status: 404
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>?????????</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=GB2312">
+<STYLE type="text/css">
+  BODY { font: 9pt/12pt ?? }
+  H1 { font: 12pt/15pt ?? }
+  H2 { font: 9pt/12pt ?? }
+  A:link { color: red }
+  A:visited { color: maroon }
+</STYLE>
+</HEAD><BODY><TABLE width=500 border=0 cellspacing=10><TR><TD>
+
+<h1>?????????</h1>
+???????????????????????á?
+<hr>
+<p>?????????/p>
+<ul>
+<li>????????8??????????д?????/li>
+<li>????????????????????j???????????????????
+</li>
+<li>????href="javascript:history.back(1)">??/a>????????????</li>
+</ul>
+<h2>HTTP ?? 404 - ??????δ?????<br>Internet ????? (IIS)</h2>
+<hr>
+<p>?????????????????????</p>
+<ul>
+<li>??? <a href="http://go.microsoft.com/fwlink/?linkid=8180">Microsoft ??????</a>??????quo;HTTP&rdquo;??ldquo;404&rdquo;?????</li>
+<li>??ldquo;IIS ??&rdquo;?????IIS ??? (inetmgr) ????????????&ldquo;????&rdquo;??&ldquo;???????&rdquo;??ldquo;??????????&rdquo;????</li>
+</ul>
+
+</TD></TR></TABLE></BODY></HTML>
+<-- 2015-04-22 07:40:24
+http://114.215.177.126:9527/inc/frmorder_export.asp@@{"Type":"PagedList","Fields":["ThirdPartExpressNUM","Skip","CreateDT","CreateDT"],"Opers":["","=","<=",">="],"Values":["0","","'2015-04-23'","'2015-03-23'"], "AddtionalQueryString":"", "PageSize":"5000", "PageNum":"1","CreateEmp":"admin"}::Status: 500
+ <font face="??" size=2>
+<p>Microsoft OLE DB Provider for SQL Server</font> <font face="??" size=2>?? '80040e14'</font>
+<p>
+<font face="??" size=2>?? 'CreateDT' ?Ч??</font>
+<p>
+<font face="??" size=2>/inc/frmorder_export.asp</font><font face="??" size=2>??? 76</font> <-- 2015-04-22 07:41:00
+http://114.215.177.126:9527/inc/frmorder_export.asp@@{"Type":"PagedList","Fields":["ThirdPartExpressNUM","Skip","CreateDT","CreateDT"],"Opers":["","=","<=",">="],"Values":["0","","'2015-04-23'","'2015-03-23'"], "AddtionalQueryString":"", "PageSize":"5000", "PageNum":"1","CreateEmp":"admin"}::Status: 500
+ <font face="??" size=2>
+<p>Microsoft OLE DB Provider for SQL Server</font> <font face="??" size=2>?? '80040e14'</font>
+<p>
+<font face="??" size=2>?? 'OrderID' ?Ч??</font>
+<p>
+<font face="??" size=2>/inc/frmorder_export.asp</font><font face="??" size=2>??? 76</font> <-- 2015-04-22 07:42:03
+tcMain.InsertItem 0, "订单系统"<-- 2015-04-22 07:46:50
+frmOrder.doSearch(0)<-- 2015-04-22 07:46:50
+http://114.215.177.126:9527/inc/frmorder_export.asp@@{"Type":"PagedList","Fields":["ThirdPartExpressNUM","Skip","CreateDT","CreateDT"],"Opers":[">=","=","<=",">="],"Values":["1","","'2015-04-23'","'2015-04-04'"], "AddtionalQueryString":"", "PageSize":"5000", "PageNum":"1","CreateEmp":"admin"}::Status: 500
+ <font face="??" size=2>
+<p>Microsoft OLE DB Provider for SQL Server</font> <font face="??" size=2>?? '80040e14'</font>
+<p>
+<font face="??" size=2>?? 'ThirdPartExpressNUM' ?Ч??</font>
+<p>
+<font face="??" size=2>/inc/frmorder_export.asp</font><font face="??" size=2>??? 76</font> <-- 2015-04-22 07:52:52
+http://114.215.177.126:9527/inc/frmorder_export.asp@@{"Type":"PagedList","Fields":["ThirdPartExpressNUM","Skip","CreateDT","CreateDT"],"Opers":[">=","=","<=",">="],"Values":["1","","'2015-04-23'","'2015-04-04'"], "AddtionalQueryString":"", "PageSize":"5000", "PageNum":"1","CreateEmp":"admin"}::Status: 500
+ <font face="??" size=2>
+<p>Microsoft OLE DB Provider for SQL Server</font> <font face="??" size=2>?? '80040e14'</font>
+<p>
+<font face="??" size=2>?? 'ThirdPartExpressNUM' ?Ч??</font>
+<p>
+<font face="??" size=2>/inc/frmorder_export.asp</font><font face="??" size=2>??? 76</font> <-- 2015-04-22 07:53:30
+tcMain.InsertItem 0, "订单系统"<-- 2015-04-22 07:57:41
+frmOrder.doSearch(0)<-- 2015-04-22 07:57:41
+http://114.215.177.126:9527/inc/frmorder_export.asp@@{"Type":"PagedList","Fields":["ThirdPartExpressNUM","Skip","CreateDT","CreateDT"],"Opers":[">=","=","<=",">="],"Values":["1","","'2015-04-23'","'2015-04-04'"], "AddtionalQueryString":"", "PageSize":"5000", "PageNum":"1","CreateEmp":"admin"}::Status: 500
+ <font face="??" size=2>
+<p>Microsoft OLE DB Provider for SQL Server</font> <font face="??" size=2>?? '80040e14'</font>
+<p>
+<font face="??" size=2>?? 'OrderID' ?Ч??</font>
+<p>
+<font face="??" size=2>/inc/frmorder_export.asp</font><font face="??" size=2>??? 76</font> <-- 2015-04-22 07:57:51
+tcMain.InsertItem 0, "订单系统"<-- 2015-04-22 08:05:51
+frmOrder.doSearch(0)<-- 2015-04-22 08:05:51
+tcMain.InsertItem 0, "订单系统"<-- 2015-04-22 08:14:27
+frmOrder.doSearch(0)<-- 2015-04-22 08:14:27
+tcMain.InsertItem 0, "订单系统"<-- 2015-04-22 08:16:32
+frmOrder.doSearch(0)<-- 2015-04-22 08:16:32
+tcMain.InsertItem 0, "订单系统"<-- 2015-04-22 08:35:27
+frmOrder.doSearch(0)<-- 2015-04-22 08:35:27

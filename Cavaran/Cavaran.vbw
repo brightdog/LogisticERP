@@ -1,0 +1,17 @@
+frmGroupBy = 0, 0, 0, 0, C, 0, 0, 271, 194, C
+frmSort = 0, 0, 0, 0, C, 22, 22, 293, 216, C
+frmOrders = 88, 88, 1006, 477, Z, 44, 44, 315, 238, C
+frmSummary = 0, 0, 0, 0, C, 66, 66, 337, 260, C
+modMain = 66, 66, 984, 455, 
+frmCardView = 0, 0, 0, 0, C, 0, 0, 271, 194, C
+frmShowfields = 0, 0, 0, 0, C, 22, 22, 293, 216, C
+frmTableview = 0, 0, 0, 0, C, 44, 44, 315, 238, C
+frmProducts = 0, 0, 0, 0, C, 66, 66, 337, 260, C
+frmSuppliers = 0, 0, 0, 0, C, 0, 0, 271, 194, C
+frmCustomers = 0, 0, 0, 0, C, 22, 22, 293, 216, C
+frmList = 0, 0, 0, 0, C, 44, 44, 315, 238, C
+frmAbout = 0, 0, 0, 0, C, 66, 66, 337, 260, C
+frmMain = 66, 66, 337, 260, , 22, 22, 214, 220, C
+frmEmployees = 0, 0, 0, 0, C, 0, 0, 271, 194, C
+frmPrintPreview = 0, 0, 0, 0, C, 22, 22, 293, 216, C
+frmSplash = 0, 0, 0, 0, C, 44, 44, 315, 238, C

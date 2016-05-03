@@ -1,0 +1,14 @@
+[History]
+B0=Bot_Run/modProc/GetAllProcessName
+B1=Bot_Run/frmMain/cmdManualRun_Click
+B2=Bot_Run/modMain/Main
+B3=Bot_Run/frmMain/Form_Load
+B4=Bot_Run/modSleep/MySleep
+B5=Bot_Run/modProc/GetProcessCountbyName
+B6=Bot_Run/modWriteLog/WriteLog
+B7=Bot_Run/frmMain/ReadTimeConfigtxt
+B8=Bot_Run/frmMain/vsThreadNum_Change
+B9=Bot_Run/modProc/GetProcessName
+B10=Bot_Run/frmMain/Form_Resize
+B11=Bot_Run/frmMain/cmdUnLock_Click
+B12=Bot_Run/frmMain

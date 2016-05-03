@@ -1,0 +1,16 @@
+[History]
+B0=LogisticERP/frmOrder/doSearch
+B1=LogisticERP/modCommonUI/FillPageNavi
+B2=LogisticERP/frmOrder/cboSkip_Click
+B3=LogisticERP/frmOrder/cmdNewOrder_Click
+B4=LogisticERP/frmOrder
+B5=LogisticERP/frmOrder/cmdPagging_Click
+B6=LogisticERP/frmOrder/cmdSearch_Click
+B7=LogisticERP/clsWinHTTPGetHtml/Send
+B8=LogisticERP/clsXMLHTTPGetHtml/Send
+B9=LogisticERP/clsWinHTTPGetHtml
+B10=LogisticERP/frmOrder_Detail/cmdSaveOrderDetail_Click
+B11=LogisticERP/modCommonUI/ChangeInputStyle
+B12=LogisticERP/frmOrder_Detail/cmdClose_Click
+B13=LogisticERP/frmOrder_Detail/Form_Load
+B14=LogisticERP/frmMain/Form_QueryUnload

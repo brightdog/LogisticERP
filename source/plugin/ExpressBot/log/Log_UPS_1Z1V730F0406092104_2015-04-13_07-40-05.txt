@@ -1,0 +1,527 @@
+Wait: 1:0.2<-- 2015-04-13 07:40:10
+Wait: 2:0.4<-- 2015-04-13 07:40:10
+Wait: 3:0.6<-- 2015-04-13 07:40:10
+Wait: 4:0.8<-- 2015-04-13 07:40:11
+Wait: 1:0.2<-- 2015-04-13 07:40:12
+Wait: 2:0.4<-- 2015-04-13 07:40:12
+Wait: 3:0.6<-- 2015-04-13 07:40:12
+Wait: 4:0.8<-- 2015-04-13 07:40:13
+Wait: 5:1<-- 2015-04-13 07:40:14
+Wait: 6:1.2<-- 2015-04-13 07:40:15
+Wait: 7:1.4<-- 2015-04-13 07:40:16
+Wait: 8:1.6<-- 2015-04-13 07:40:17
+Wait: 9:1.8<-- 2015-04-13 07:40:19
+Wait: 10:2<-- 2015-04-13 07:40:21
+Status: 500
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+
+
+
+
+
+<html>
+
+
+<HEAD>
+
+<meta name="DCSext.pgf_Site" content="Country">
+ <meta name="DCSext.pCC" content="CN">
+ <meta name="DCSext.pLL" content="zh">
+ <meta name="DCSext.pSA" content="Tracking">
+ <meta name="DCSext.pSU" content="com.ups.track.web">
+ <meta name="DCSext.pPID" content="tracking/trackWeb/tra(3sys).html">
+ <meta name="DCSext.pPS" content="0">
+ <meta name="DCSext.pCS" content="Unknown">
+ <meta name="DCSext.pSS" content="0">
+ <meta name="DCSext.pJSV" content="0115">
+ <meta name="DCSext.pCV" content="0115">
+ <meta name="DCSext.pLI" content="1">
+ 
+
+
+<script  src="/assets/framework/jquery/jquery-1.11.1.js" type="text/javascript" charset="utf-8"></script>
+<script  src="/assets/framework/jquery/plugin/jqueryui/jquery-ui-1.11.1.js" type="text/javascript" charset="utf-8"></script>
+<script  src="/assets/framework/jquery/plugin/jqprint/jqprint.0.3.js" type="text/javascript" charset="utf-8"></script>
+<script  src="/assets/framework/jquery/plugin/thickbox/thickbox-3.1.2.js" type="text/javascript" charset="utf-8"></script>
+
+
+<meta name="description" content="logistics, tracking, shipping">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css"  href="/assets/framework/jquery/plugin/jqueryui/jquery-ui.css?V=0115">
+<script  src="/assets/calendar/201107_00_01/calendar_201107_00_01_zh_CN.transient.js" type="text/javascript" charset="utf-8"></script>
+
+
+<SCRIPT LANGUAGE="JavaScript1.2" SRC="/javascript/global.js?V=0115" TYPE="text/javascript"></SCRIPT>
+<TITLE>UPS： 追踪信息</TITLE>
+<SCRIPT LANGUAGE="JavaScript1.2" SRC="/javascript/webtrends.load.js?V=0115" TYPE="text/javascript"></SCRIPT>
+<script  src="/assets/cclamp/cfevents.js?V=0115" type="text/javascript" charset="utf-8"></script>
+
+
+</head>
+<body>
+
+
+	
+
+
+
+
+
+<div id="ccGloBnr" class="tabon">
+		
+		
+		<noscript>
+        <link rel="stylesheet" href="/stylesheets/master.css?V=0108" type="text/css">
+	</noscript>	
+	<div class="bnrGtr">
+        <div class="bnrBrand">
+			<a href="http://www.ups.com/content/cn/zh/index.jsx?WT.svl=BrndMrk"><img src="/img/glo_ups_brandmark.gif" width="42" height="55" alt="UPS" border="0"></a>		</div>
+	</div>
+ 
+		
+		
+		
+		
+		<!-- begin primary navigation -->
+	<div class="taboff" id="ccGloBnr">
+			<div class="bnrGtr2">
+				<div class="navHeader">
+					<h1>
+						中国
+					</h1>
+				</div>
+			</div>
+		<div class="nav1GloBnr">
+			<ul id="nav1">
+									<li class="tab-off" id="navList0">
+<a id="navImg0" href="https://www.ups.com/myups/info/home?loc=zh_CN&WT.svl=PriNav">我的 UPS<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a> 
+		 						</li>
+									<li class="tab-off" id="navList1">
+<a id="navImg1" href="http://www.ups.com/content/cn/zh/shipping/index.html?WT.svl=PriNav">运输</a> 
+		 						</li>
+									<li class="tab-on" id="navList2">
+									 
+<a id="navImg2" href="http://www.ups.com/WebTracking/track?loc=zh_CN&WT.svl=PriNav">包裹追踪</a>								    
+		 						</li>
+									<li class="tab-off" id="navList3">
+<a id="navImg3" href="http://www.ups.com/content/cn/zh/freight/index.html?WT.svl=PriNav">货运/运费</a> 
+		 						</li>
+									<li class="tab-off" id="navList4">
+<a id="navImg4" href="http://www.ups.com/content/cn/zh/locations/index.html?WT.svl=PriNav">地点</a> 
+		 						</li>
+									<li class="tab-off" id="navList5">
+<a id="navImg5" href="http://www.ups.com/content/cn/zh/resources/index.html?WT.svl=PriNav">支持</a> 
+		 						</li>
+									<li class="tab-off" id="navList6">
+<a id="navImg6" href="http://www.ups.com/content/cn/zh/bussol/browse/solutions/index.html?WT.svl=PriNav">UPS 解决方案</a> 
+		 						</li>
+			</ul>
+		</div>
+	</div>
+	<div style="clear:both"></div>
+			<iframe src="/img/1.gif" class="ccpnframe" id="ccpnframe0" scrolling="no"></iframe>
+			<div class="ccpnmenu" id="ccpnmenu0"><a href="https://www.ups.com/one-to-one/loginSettings?loc=zh_CN&WT.svl=PNRO_L1">登录设置<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/myups/profile?loc=zh_CN&WT.svl=PNRO_L1">简要表<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/myups/acctsummary?loc=zh_CN&WT.svl=PNRO_L1">帐户摘要<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/content/cn/zh/myups/billing/index.html?WT.svl=PNRO_L1">结算<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/qvadmin/admin?loc=zh_CN&WT.svl=PNRO_L1">管理<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/myups/addresses?loc=zh_CN&WT.svl=PNRO_L1">通讯录<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/account/am/start?loc=zh_CN&WT.svl=PNRO_L1">维护您的 UPS 帐户<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a>			</div>
+			<iframe src="/img/1.gif" class="ccpnframe" id="ccpnframe1" scrolling="no"></iframe>
+			<div class="ccpnmenu" id="ccpnmenu1"><a href="https://www.ups.com/uis/create?loc=zh_CN&WT.svl=PNRO_L1">创建货件<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/uis/create?ActionOriginPair=ShippingHistory___StartSession&loc=zh_CN&srcLink=HISTORY&WT.svl=PNRO_L1">查看历史记录<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/uis/create?ActionOriginPair=ShippingHistory___StartSession&loc=zh_CN&srcLink=VOID&WT.svl=PNRO_L1">无效的货件<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/uis/create?ActionOriginPair=CreateAReturn___StartSession&loc=zh_CN&WT.svl=PNRO_L1">创建回邮货件<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/uis/create?ActionOriginPair=BatchImportPage___StartSession&loc=zh_CN&WT.svl=PNRO_L1">使用批处理文件运输<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/uis/create?ActionOriginPair=CreateAnImport___StartSession&loc=zh_CN&WT.svl=PNRO_L1">创建进口货件<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/marketplaceshipping/order?loc=zh_CN&WT.svl=PNRO_L1">发运商城订单<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="http://wwwapps.ups.com/calTimeCost?loc=zh_CN&WT.svl=PNRO_L1">计算递送时间和费用</a><a href="https://wwwapps.ups.com/pickup/schedule?loc=zh_CN&WT.svl=PNRO_L1">安排取件</a><a href="https://www.ups.com/account/selfserve/start?loc=zh_CN&WT.svl=PNRO_L1">开立 UPS 帐号<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://wwwapps.ups.com/tradeability?loc=zh_CN&WT.svl=PNRO_L1">使用国际通用工具</a><a href="http://www.ups.com/content/cn/zh/shipping/labels/index.html?WT.svl=PNRO_L1">预订包装物料</a><a href="https://www.ups.com/sharp/prefapp?appid=pp&loc=zh_CN&WT.svl=PNRO_L1">设置首选项<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="http://www.ups.com/content/cn/zh/shipping/time/service/shipping/index.html?WT.svl=PNRO_L1">国际服务</a><a href="https://www.ups.com.cn/zh/portal/shipment.aspx?WT.svl=PNRO_L1">创建国内货件</a>					</div>
+			<iframe src="/img/1.gif" class="ccpnframe" id="ccpnframe2" scrolling="no"></iframe>
+			<div class="ccpnmenu" id="ccpnmenu2"><a href="http://www.ups.com/WebTracking/track?loc=zh_CN&WT.svl=PNRO_L1">追踪货件</a><a href="http://www.ups.com/content/cn/zh/tracking/quantumview/index.html?WT.svl=PNRO_L1">了解更多关于Quantum View</a><a href="https://www.ups.com/qvadmin/admin?loc=zh_CN&WT.svl=PNRO_L1">管理<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/cva?loc=zh_CN&WT.svl=PNRO_L1">Quantum View 权限<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="https://www.ups.com/quantum_services/download?loc=zh_CN&WT.svl=PNRO_L1">Quantum View Data<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_white.gif" height="8" width="12"></a><a href="http://www.ups.com/content/cn/zh/tracking/fgv/index.html?WT.svl=PNRO_L1">进入Flex Global View</a>			</div>
+			<iframe src="/img/1.gif" class="ccpnframe" id="ccpnframe3" scrolling="no"></iframe>
+			<div class="ccpnmenu" id="ccpnmenu3"><a href="http://www.ups.com/content/cn/zh/freight/expedite.html?WT.svl=PNRO_L1">紧急货运</a><a href="http://www.ups.com/content/cn/zh/freight/air_freight.html?WT.svl=PNRO_L1">空运</a><a href="http://www.ups.com/content/cn/zh/freight/ocean_freight.html?WT.svl=PNRO_L1">海运</a><a href="http://www.ups.com/content/cn/zh/resources/ship/customs/index.html?WT.svl=PNRO_L1">海关报关服务</a>					</div>
+			<iframe src="/img/1.gif" class="ccpnframe" id="ccpnframe4" scrolling="no"></iframe>
+			<div class="ccpnmenu" id="ccpnmenu4"><a href="http://www.ups.com/content/cn/zh/locations/dropoff/index.html?WT.svl=PNRO_L1">查找服务中心</a>			</div>
+			<iframe src="/img/1.gif" class="ccpnframe" id="ccpnframe5" scrolling="no"></iframe>
+			<div class="ccpnmenu" id="ccpnmenu5"><a href="http://www.ups.com/content/cn/zh/resources/start/index.html?WT.svl=PNRO_L1">入门</a><a href="http://www.ups.com/content/cn/zh/resources/ship/index.html?WT.svl=PNRO_L1">运输</a><a href="http://www.ups.com/content/cn/zh/resources/track/index.html?WT.svl=PNRO_L1">包裹追踪</a><a href="http://www.ups.com/content/cn/zh/resources/service/index.html?WT.svl=PNRO_L1">接收您的货件</a><a href="http://www.ups.com/content/cn/zh/resources/pay/index.html?WT.svl=PNRO_L1">结算与支付</a><a href="http://www.ups.com/content/cn/zh/resources/techsupport/index.html?WT.svl=PNRO_L1">技术支持</a>			</div>
+			<iframe src="/img/1.gif" class="ccpnframe" id="ccpnframe6" scrolling="no"></iframe>
+			<div class="ccpnmenu" id="ccpnmenu6"><a href="http://www.ups.com/content/cn/zh/bussol/browse/industries/industries.html?WT.svl=PNRO_L1">行业焦点</a>					</div>
+	<script type="text/JavaScript">crtccMenu(7)</script>	
+	<!-- end primary navigation -->                                                                                                                                                                                                     
+
+		
+		
+		<div class="bnrGtr2">
+			
+			
+			<div class="navSearch" id="sec_nav_wrap">  
+<form name="searchForm" action=
+"http://www.ups.com/search/quick">
+<input type="hidden" name="loc" value="zh_CN">
+<input type="hidden" name="results" value="25">
+<input type="hidden" name="view" value="both">
+<dl>
+				<dd> | </dd>
+				<dd><a href="javascript:popWrapper('http://www.ups.com/content/cn/zh/language.html','pop_up_2_col')">更改语言</a><img alt="" border="0" height="1" src="/img/1.gif" width="3"><img src="/img/icn_help_white.gif" width="11" height="9" alt="" border="0">
+				</dd>
+<dd><input alt="query" name="query" value="搜索" maxlength="512" type="text" onclick="this.value = '';" /> <input type="submit" value="" name="searchButton" class="btn_a"></dd>
+</dl>
+</form>
+</div>
+<script language="JavaScript1.2" src="/javascript/chng_lang.js?V=0708" type="text/javascript"></script>      
+
+			
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="navLogin" id="usb_login">
+  <dl>
+  	<dd><a href="https://www.ups.com/one-to-one/register?loc=zh_CN&returnto=http%3A%2F%2Fwww.ups.com&sysid=myups">新用户？</a><img alt="" border="0" height="1" src="/img/1.gif" width="3"></dd>
+  	<dd>|</dd>
+	<dd><a class="login" id="usb_login_link" href="https://www.ups.com/one-to-one/login?loc=zh_CN&returnto=http%3A%2F%2Fwww.ups.com">登录          </a><img alt="" border="0" height="1" src="/img/1.gif" width="3"></dd>
+  </dl>
+</div>
+
+
+
+
+
+
+	
+
+
+
+
+
+		</div>
+		
+		
+		  
+</div>
+
+
+
+
+
+
+<div style="clear:both"></div>
+
+
+
+ 
+    <div style="clear:both"></div>
+    <div id="ccGloBdy">
+		<div id="ccCntMod">
+		
+		
+		<!-- SearchBodyStart -->
+		
+
+
+
+
+
+
+
+
+
+<br>
+追踪信息此时无法使用。请稍后再试。
+
+
+
+
+
+
+
+		<!-- SearchBodyEnd -->
+		
+		
+		</div>		  
+	</div>
+   <div style="clear:both"></div>
+    
+
+
+
+
+
+
+
+
+<div class="cclampFooter">
+	<div class="appLvl appLvlPlain colsuper clearfix">
+	<fieldset>
+		<div class="appHead clearfix">
+		<dl class="inline">
+				<dt><label>
+					订阅电子邮件：
+				</label></dt>
+						<dd>
+	<form name="genericForm" action=
+"https://wwwapps.ups.com/emailEnrollment/signIn?loc=zh_CN&WT.svl=Footer" style="margin:0px:" method="post">
+		<input type="hidden" name="WT.svl" value="Footer">
+		<input type="text" name="emailAddress" id="emailAddress" value="输入邮件地址" onFocus="javascript:clearText(this);" class="reqTxtInst formcol6">
+				<button type="submit" class="button btnGroup6 arrowIconRight" name="submitButton" onClick="javascript:checkInput()">签约</button> 
+	</form>
+	<script language="javascript" type="text/javascript">
+		/* This method checks if the value of input field equals the default text, if so then it clears its value. */
+		function checkInput() {
+			if (document.getElementById("emailAddress").value == '输入邮件地址') {
+				document.getElementById("emailAddress").value ="";
+			}
+		}
+		/* The following method uses jquery, which is included in CClamp wireframe */				
+		function clearText(whichField) {
+			if($(whichField)[0].type == "text"){
+				$(whichField).attr("value","").removeAttr("onfocus");
+			}
+		};		
+	</script>
+</dd>
+						<dd class=""><a href="javascript:popWrapper('http://www.ups.com/content/cn/zh/wep/emailcommunications.html?WT.svl=Footer','pop_up_3_col')">查看范例<img alt="" border="0" height="1" src="/img/1.gif" width="3"><img src="/img/icn_popup_white.gif" alt="" width="9" height="9" border="0"></a>						</dd>
+		</dl>
+	</div>
+	<div class="appBody clearfix">
+	<fieldset>
+		<div class="secLvl secLvlPlain seccol6 clearfix">
+		<fieldset>
+			<div class="secBody">
+				<div class="secLvl marginBegin clearfix group6 borderOnly ">
+				<fieldset>
+					<div class="secHead clearfix">
+						<h4>				<a href="http://www.ups.com/content/cn/zh/contact/index.html?WT.svl=Footer">联络 UPS/联系 UPS</a>						</h4>	
+					</div>
+					<div class="secBody">
+			    	
+					    		
+			    			
+			    		
+					    		
+			    			
+			    		
+					    		
+			    			
+			    		
+			    	
+					<ul>
+								<li>
+<img src="/img/zh/cn/icon_magnifier_16.gif" width="16" height="16" alt="浏览在线支持" border="0" ><a href="http://www.ups.com/content/cn/zh/resources/index.html?WT.svl=Footer">浏览在线支持</a>									
+								</li>
+								<li>
+<img src="/img/zh/cn/icon_mail_16.gif" width="16" height="16" alt="向 UPS 发送电子邮件" border="0" ><a href="https://www.ups.com/upsemail/input?loc=zh_CN&WT.svl=Footer">向 UPS 发送电子邮件</a>									
+								</li>
+								<li>
+<img src="/img/zh/cn/icon_phone_16.gif" width="16" height="16" alt="呼叫客户服务" border="0" ><a href="http://www.ups.com/content/cn/zh/contact/index.html?WT.svl=Footer">呼叫客户服务</a>									
+								</li>
+					</ul>
+					</div>
+		        </fieldset>
+				</div>		
+			</div>
+		</fieldset>
+		</div>
+		<div class="secLvl secLvlPlain seccol6 clearfix">
+		<fieldset>
+			<div class="secBody">
+				<div class="secLvl marginBegin clearfix ">
+				<fieldset>
+					<div class="secHead clearfix">
+						<h4>				<a href="http://www.ups.com/content/cn/zh/resources/index.html?WT.svl=Footer">支持</a>						</h4>	
+					</div>
+					<div class="secBody">
+			    	
+					    		
+			    			
+			    		
+					    		
+			    			
+			    		
+					    		
+			    			
+			    		
+			    		
+			    		
+					    		
+			    			
+			    		
+			    	
+					<ul>
+								<li><a href="http://www.ups.com/content/cn/zh/resources/start/index.html?WT.svl=Footer">开始</a>									
+								</li>
+								<li><a href="https://www.ups.com/one-to-one/register?sysid=myups&mcp=true&loc=zh_CN&WT.svl=Footer">注册</a>									
+								</li>
+								<li><a href="https://www.ups.com/account/selfserve/start?loc=zh_CN&WT.svl=Footer">开设运输账号<img align="bottom" alt="" border="0" src="/img/1.gif" height="7" width="0"><img align="bottom" alt="" border="0" src="/img/icn_lock_green.gif" height="8" width="12"></a>									
+								</li>
+								<li><a href="http://www.ups.com/content/cn/zh/resources/service/delivery_change.html?WT.svl=Footer">更改您的递送</a>									
+								</li>
+					</ul>
+					</div>
+		        </fieldset>
+				</div>		
+			</div>
+		</fieldset>
+		</div>
+		<div class="secLvl secLvlPlain seccol6 clearfix">
+		<fieldset>
+			<div class="secBody">
+				<div class="secLvl marginBegin clearfix ">
+				<fieldset>
+					<div class="secHead clearfix">
+						<h4>				
+								解决方案：
+						</h4>	
+					</div>
+					<div class="secBody">
+			    	
+					    		
+			    			
+			    		
+					    		
+			    			
+			    		
+					    		
+			    			
+			    		
+			    	
+					<ul>
+								<li><a href="http://www.ups.com/content/cn/zh/bussol/browse/cat/small_bus.html?WT.svl=Footer">小型企业</a>									
+								</li>
+								<li><a href="http://www.ups.com/content/cn/zh/bussol/browse/international_trade.html?WT.svl=Footer">国际贸易</a>									
+								</li>
+								<li><a href="http://www.ups.com/content/cn/zh/bussol/browse/solutions/explore.html?WT.svl=Footer">更多...</a>									
+								</li>
+					</ul>
+					</div>
+		        </fieldset>
+				</div>		
+			</div>
+		</fieldset>
+		</div>
+		<div class="secLvl secLvlPlain seccol6 clearfix">
+		<fieldset>
+			<div class="secBody">
+				<div class="secLvl marginBegin clearfix ">
+				<fieldset>
+					<div class="secHead clearfix">
+						<h4>				
+						</h4>	
+					</div>
+					<div class="secBody">
+			    	
+			    	
+						<h5>其他UPS站点：</h5>
+					     		
+					     	
+					     		
+					     	
+					     		
+					     	
+					     		
+					     	
+					     		
+					     	
+					<select name="dropdownList" id="footer_dd_form_0" class="maxwidthFix" size="1" onChange="javascript:footerDropdownLinksHandler('footer_dd_form_0')">
+								<option value="">请选择一个</option>
+<option value="http://pressroom.ups.com/Business+Monitor/Business+Monitor+Asia">亚洲商业监察</option>
+							     		
+							     	
+<option value="http://compass.ups.com">UPS指南（仅英文）</option>
+							     		
+							     	
+<option value="http://www.ups.com.cn/zh/default.aspx">国内服务</option>
+							     		
+							     	
+<option value="http://www.investors.ups.com">投资者（仅英文）</option>
+							     		
+							     	
+<option value="http://www.upsjobs.com/">UPS职位</option>
+							     		
+							     	
+					</select>
+					<script language="JavaScript1.2" type="text/javascript">						
+					 function footerDropdownLinksHandler(formName){					
+					 var dropdwnObj = document.getElementById(formName);				
+					    if ( dropdwnObj.options[dropdwnObj.selectedIndex].value != "" ){
+					        window.open(dropdwnObj.options[dropdwnObj.selectedIndex].value,'_blank');
+					   }
+					 }
+					</script>
+					</div>
+		        </fieldset>
+				</div>		
+			</div>
+		</fieldset>
+		</div>
+	</fieldset>
+	</div> 
+	<div class="appFooter">
+		<div class="alignCenter"> 
+		   	
+		   			
+				<ul class="inline">
+										<li><a href="http://www.ups.com/content/cn/zh/index.jsx?WT.svl=Footer">主页</a>										</li>
+										<li><a href="http://www.ups.com/content/cn/zh/about/index.html?WT.svl=Footer">关于UPS</a>										</li>
+										<li><a href="http://www.ups.com/content/cn/zh/siteguide/index.html?WT.svl=Footer">站点指南</a>										</li>
+										<li><a href="http://www.upsjobs.com/?WT.svl=Footer">职业</a>										</li>
+										<li><a href="http://www.pressroom.ups.com?WT.svl=Footer">新闻发布会</a>										</li>
+										<li><a href="http://www.ups.com/content/global/index.jsx?WT.svl=Footer">UPS 全球服务</a>										</li>
+										<li><a href="http://www.ups.com/content/cn/zh/bussol/browse/cat/wireless.html?WT.svl=Footer">UPS Mobile</a>										</li>
+						</ul>
+			<div class="hr"><img alt="" border="0" height="1" src="/img/1.gif" width="1"></div>
+		   	
+		   			
+				<ul class="inline">
+										<li><a href="http://www.ups.com/content/cn/zh/resources/ship/terms/shipping/index.html?WT.svl=Footer">服务的条款与条件</a>										</li>
+										<li><a href="http://www.ups.com/content/cn/zh/resources/ship/terms/use.html?WT.svl=Footer">网站使用条款</a>										</li>
+										<li><a href="javascript:popWrapper('http://www.ups.com/content/cn/zh/resources/ship/terms/privacy.html?WT.svl=Footer','pop_up_full_page')">隐私通知<img width="3" height="7" border="0" alt="" src="/img/1.gif"><img width="9" height="9" border="0" src="/img/icn_popup_blu.gif"></a></a>										</li>
+										<li><a href="http://www.ups.com/content/cn/zh/resources/ship/fraud.html?WT.svl=Footer">谨防假冒</a>										</li>
+										<li><a href="http://www.miibeian.gov.cn/?WT.svl=Footer">粤ICP备11047239号</a>										</li>
+						</ul>	
+						<p>Copyright &copy; 1994-2015 United Parcel Service of America, Inc. 版权所有。</p>
+		</div>
+	</div>
+	</fieldset>
+	</div>
+	</div>                                                                                                                                                                                          
+
+
+
+
+
+
+
+<script> var preferred=false; var national=false; var worldship=false; </script>
+
+
+
+
+<img alt="" border="0" src="/img/icp.gif">
+</body>
+
+</HTML>
+
+<-- 2015-04-13 07:40:23
+Wait: 1:0.2<-- 2015-04-13 07:43:20
+Wait: 2:0.4<-- 2015-04-13 07:43:20
+Wait: 3:0.6<-- 2015-04-13 07:43:21
+Wait: 4:0.8<-- 2015-04-13 07:43:21

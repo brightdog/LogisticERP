@@ -1,0 +1,12 @@
+[History]
+B0=CompoundForm/frmLeft/Form_Resize
+B1=CompoundForm/frmMain/movefrmLeft
+B2=CompoundForm/frmMain/Form_Resize
+B3=CompoundForm/frmMain/movefrmContent
+B4=CompoundForm/frmMain/Command1_Click
+B5=CompoundForm/frmMain
+B6=CompoundForm/frmMain/movefrmHeader
+B7=CompoundForm/frmMain/Command2_Click
+B8=CompoundForm/frmMain/Command3_Click
+B9=CompoundForm/frmMain/Form_Load
+B10=CompoundForm/frmHeader/Form_Load

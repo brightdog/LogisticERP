@@ -1,0 +1,6 @@
+[History]
+B0=POSUtilts/Code128/Init_Table
+B1=POSUtilts/arisBarcode/Code128
+B2=POSUtilts/EAN13and8/BarEAN8
+B3=POSUtilts/arisBarcode/EAN8
+B4=POSUtilts/Code128/Paint_Code

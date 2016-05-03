@@ -1,0 +1,16 @@
+[History]
+B0=Bot_RunAutoPlus/clsDelHisFiles/DeleteHistoryFiles
+B1=Bot_RunAutoPlus/clsws_SFMainService/SOAPUploadFile
+B2=Bot_RunAutoPlus/clsSOAP_Poster/Send
+B3=Bot_RunAutoPlus/clsws_SFMainService
+B4=Bot_RunAutoPlus/clsvbBase64/Base64Encode
+B5=Bot_RunAutoPlus/Class1/Base64Encode
+B6=Bot_RunAutoPlus/modZipnUpload/UploadResultFile
+B7=Bot_RunAutoPlus/modZipnUpload/ZipnUploadResultFile
+B8=Bot_RunAutoPlus/frmMain/tmrUpload_Timer
+B9=Bot_RunAutoPlus/clsSOAP_Poster/SOAPAction
+B10=Bot_RunAutoPlus/clsSOAP_Poster
+B11=Bot_RunAutoPlus/clsws_SFMainService/wsm_UploadFile
+B12=Bot_RunAutoPlus/frmMain/cmdManualRun_Click
+B13=Bot_RunAutoPlus/frmMain/CheckTask
+B14=Bot_RunAutoPlus/frmMain/Form_Resize

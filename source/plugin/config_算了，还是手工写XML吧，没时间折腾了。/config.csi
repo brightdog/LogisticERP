@@ -1,0 +1,16 @@
+[History]
+B0=config/frmConfig/ConvertGridtoArray
+B1=config/frmConfig/cmdSave_Click
+B2=config/frmConfig/Form_Load
+B3=config/clsWebConfig/LoadXml
+B4=config/frmConfig/ConvertArrayDB
+B5=config/frmConfig/Form_Resize
+B6=config/clsDE/EnCode
+B7=config/clsDE
+B8=config/clsDE/Decode
+B9=config/modAppPath/Init
+B10=config/modAppPath
+B11=config/clsWebConfig
+B12=config/frmConfig
+B13=config/frmConfig/TDBGrd_Click
+B14=config/frmConfig/DBGrd_Click
